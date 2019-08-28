@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1264,5): warning MSB8012: TargetPath(E:\GraphicsPlatform\GraphicsPlatform\x64\Debug\Native12.dll) does not match the Linker's OutputFile property value (E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\nativedx.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1266,5): warning MSB8012: TargetName(Native12) does not match the Linker's OutputFile property value (nativedx). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library E:\GraphicsPlatform\GraphicsPlatform\x64\Debug\Native12.lib and object E:\GraphicsPlatform\GraphicsPlatform\x64\Debug\Native12.exp
+  Native12.vcxproj -> E:\GraphicsPlatform\GraphicsPlatform\x64\Debug\Native12.dll

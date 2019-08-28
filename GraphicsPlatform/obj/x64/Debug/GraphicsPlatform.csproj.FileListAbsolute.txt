@@ -1,0 +1,9 @@
+E:\GraphicsPlatform\GraphicsPlatform\bin\x64\Debug\GraphicsPlatform.dll
+E:\GraphicsPlatform\GraphicsPlatform\bin\x64\Debug\GraphicsPlatform.pdb
+E:\GraphicsPlatform\GraphicsPlatform\obj\x64\Debug\GraphicsPlatform.csproj.CoreCompileInputs.cache
+E:\GraphicsPlatform\GraphicsPlatform\obj\x64\Debug\GraphicsPlatform.dll
+E:\GraphicsPlatform\GraphicsPlatform\obj\x64\Debug\GraphicsPlatform.pdb
+E:\GraphicsPlatform\GraphicsPlatform\bin\x64\Debug\System.Numerics.Vectors.dll
+E:\GraphicsPlatform\GraphicsPlatform\bin\x64\Debug\System.Numerics.Vectors.xml
+E:\GraphicsPlatform\GraphicsPlatform\obj\x64\Debug\GraphicsPlatform.csproj.CopyComplete
+E:\GraphicsPlatform\GraphicsPlatform\obj\x64\Debug\GraphicsPlatform.csprojAssemblyReference.cache

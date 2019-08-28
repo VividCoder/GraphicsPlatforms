@@ -1,0 +1,9 @@
+E:\GraphicsPlatform\WindowsDX12Platform\bin\x64\Debug\WindowsDX12Platform.dll
+E:\GraphicsPlatform\WindowsDX12Platform\bin\x64\Debug\WindowsDX12Platform.pdb
+E:\GraphicsPlatform\WindowsDX12Platform\obj\x64\Debug\WindowsDX12Platform.csprojAssemblyReference.cache
+E:\GraphicsPlatform\WindowsDX12Platform\obj\x64\Debug\WindowsDX12Platform.csproj.CoreCompileInputs.cache
+E:\GraphicsPlatform\WindowsDX12Platform\obj\x64\Debug\WindowsDX12Platform.dll
+E:\GraphicsPlatform\WindowsDX12Platform\obj\x64\Debug\WindowsDX12Platform.pdb
+E:\GraphicsPlatform\WindowsDX12Platform\bin\x64\Debug\GraphicsPlatform.dll
+E:\GraphicsPlatform\WindowsDX12Platform\bin\x64\Debug\GraphicsPlatform.pdb
+E:\GraphicsPlatform\WindowsDX12Platform\obj\x64\Debug\WindowsDX12Platform.csproj.CopyComplete

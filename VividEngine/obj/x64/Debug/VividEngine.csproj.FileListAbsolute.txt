@@ -1,0 +1,9 @@
+E:\GraphicsPlatform\VividEngine\bin\x64\Debug\VividEngine.dll
+E:\GraphicsPlatform\VividEngine\bin\x64\Debug\VividEngine.pdb
+E:\GraphicsPlatform\VividEngine\bin\x64\Debug\GraphicsPlatform.dll
+E:\GraphicsPlatform\VividEngine\bin\x64\Debug\GraphicsPlatform.pdb
+E:\GraphicsPlatform\VividEngine\obj\x64\Debug\VividEngine.csprojAssemblyReference.cache
+E:\GraphicsPlatform\VividEngine\obj\x64\Debug\VividEngine.csproj.CoreCompileInputs.cache
+E:\GraphicsPlatform\VividEngine\obj\x64\Debug\VividEngine.csproj.CopyComplete
+E:\GraphicsPlatform\VividEngine\obj\x64\Debug\VividEngine.dll
+E:\GraphicsPlatform\VividEngine\obj\x64\Debug\VividEngine.pdb

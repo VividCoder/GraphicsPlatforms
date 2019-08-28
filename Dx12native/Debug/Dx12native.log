@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Dx12native.cpp
+  Generating Code...
+     Creating library E:\GraphicsPlatform\GraphicsPlatform\Debug\DX12NATIVE.lib and object E:\GraphicsPlatform\GraphicsPlatform\Debug\DX12NATIVE.exp
+  Dx12native.vcxproj -> E:\GraphicsPlatform\GraphicsPlatform\Debug\DX12NATIVE.dll

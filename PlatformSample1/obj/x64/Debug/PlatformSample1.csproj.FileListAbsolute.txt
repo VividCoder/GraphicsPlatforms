@@ -1,0 +1,14 @@
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\PlatformSample1.exe.config
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\PlatformSample1.exe
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\PlatformSample1.pdb
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\GraphicsPlatform.dll
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\WindowsDX12Platform.dll
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\GraphicsPlatform.pdb
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\WindowsDX12Platform.pdb
+E:\GraphicsPlatform\PlatformSample1\obj\x64\Debug\PlatformSample1.csprojAssemblyReference.cache
+E:\GraphicsPlatform\PlatformSample1\obj\x64\Debug\PlatformSample1.csproj.CoreCompileInputs.cache
+E:\GraphicsPlatform\PlatformSample1\obj\x64\Debug\PlatformSample1.csproj.CopyComplete
+E:\GraphicsPlatform\PlatformSample1\obj\x64\Debug\PlatformSample1.exe
+E:\GraphicsPlatform\PlatformSample1\obj\x64\Debug\PlatformSample1.pdb
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\VividEngine.dll
+E:\GraphicsPlatform\PlatformSample1\bin\x64\Debug\VividEngine.pdb
